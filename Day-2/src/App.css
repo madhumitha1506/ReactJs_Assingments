@@ -1,0 +1,33 @@
+body{
+    background-color: #7C83FD;
+}
+div{
+    text-align: center;
+    margin-top: 15%;
+}
+.inc{
+    padding: 15px;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: #595260;
+}
+.dec{
+    padding: 15px;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: #595260;
+}
+.reset{
+    padding: 15px;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: #2C2E43;
+}
+
+.count{
+    background-color: #F1ECC3;
+    padding:20px;
+    margin: auto 40%;
+    width: 10%;
+    border-radius: 20px;
+}
